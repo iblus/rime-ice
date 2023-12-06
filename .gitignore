@@ -7,7 +7,10 @@ sync/
 *.userdb/
 installation.yaml
 user.yaml
+default.custom.yaml
 *.custom.yaml
+!weasel.custom.yaml
+!rime_ice.custom.yaml
 !others/**/*.custom.yaml
 
 custom_phrase_double.txt
